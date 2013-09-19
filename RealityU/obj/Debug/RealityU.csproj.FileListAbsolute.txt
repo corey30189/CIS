@@ -1,0 +1,98 @@
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\RealityU.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\RealityU.pdb
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\Antlr3.Runtime.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\DotNetOpenAuth.Core.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\EntityFramework.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\Newtonsoft.Json.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Net.Http.Formatting.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.Helpers.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.Http.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.Http.WebHost.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.Mvc.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.Optimization.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.Razor.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.WebPages.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.WebPages.Razor.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\WebGrease.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\WebMatrix.Data.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\WebMatrix.WebData.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\EntityFramework.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\Newtonsoft.Json.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Net.Http.Formatting.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.Helpers.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.Http.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.Http.WebHost.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.Mvc.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.Razor.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.WebPages.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\System.Web.WebPages.Razor.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\WebMatrix.Data.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\WebMatrix.WebData.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\DotNetOpenAuth.Core.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\obj\Debug\RealityU.csprojResolveAssemblyReference.cache
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\obj\Debug\RealityU.dll
+C:\Users\wtollive\Documents\Visual Studio 2012\Projects\RealityU\RealityU\obj\Debug\RealityU.pdb
+F:\RealityU\RealityU\RealityU\bin\RealityU.dll
+F:\RealityU\RealityU\RealityU\bin\RealityU.pdb
+F:\RealityU\RealityU\RealityU\bin\Antlr3.Runtime.dll
+F:\RealityU\RealityU\RealityU\bin\DotNetOpenAuth.AspNet.dll
+F:\RealityU\RealityU\RealityU\bin\DotNetOpenAuth.Core.dll
+F:\RealityU\RealityU\RealityU\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\RealityU\RealityU\RealityU\bin\DotNetOpenAuth.OAuth.dll
+F:\RealityU\RealityU\RealityU\bin\DotNetOpenAuth.OpenId.dll
+F:\RealityU\RealityU\RealityU\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\RealityU\RealityU\RealityU\bin\EntityFramework.dll
+F:\RealityU\RealityU\RealityU\bin\Microsoft.Web.Infrastructure.dll
+F:\RealityU\RealityU\RealityU\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\RealityU\RealityU\RealityU\bin\Newtonsoft.Json.dll
+F:\RealityU\RealityU\RealityU\bin\System.Net.Http.Formatting.dll
+F:\RealityU\RealityU\RealityU\bin\System.Web.Helpers.dll
+F:\RealityU\RealityU\RealityU\bin\System.Web.Http.dll
+F:\RealityU\RealityU\RealityU\bin\System.Web.Http.WebHost.dll
+F:\RealityU\RealityU\RealityU\bin\System.Web.Mvc.dll
+F:\RealityU\RealityU\RealityU\bin\System.Web.Optimization.dll
+F:\RealityU\RealityU\RealityU\bin\System.Web.Razor.dll
+F:\RealityU\RealityU\RealityU\bin\System.Web.WebPages.Deployment.dll
+F:\RealityU\RealityU\RealityU\bin\System.Web.WebPages.dll
+F:\RealityU\RealityU\RealityU\bin\System.Web.WebPages.Razor.dll
+F:\RealityU\RealityU\RealityU\bin\WebGrease.dll
+F:\RealityU\RealityU\RealityU\bin\WebMatrix.Data.dll
+F:\RealityU\RealityU\RealityU\bin\WebMatrix.WebData.dll
+F:\RealityU\RealityU\RealityU\bin\EntityFramework.xml
+F:\RealityU\RealityU\RealityU\bin\Newtonsoft.Json.xml
+F:\RealityU\RealityU\RealityU\bin\System.Net.Http.Formatting.xml
+F:\RealityU\RealityU\RealityU\bin\System.Web.Helpers.xml
+F:\RealityU\RealityU\RealityU\bin\System.Web.Http.xml
+F:\RealityU\RealityU\RealityU\bin\System.Web.Http.WebHost.xml
+F:\RealityU\RealityU\RealityU\bin\System.Web.Mvc.xml
+F:\RealityU\RealityU\RealityU\bin\System.Web.Razor.xml
+F:\RealityU\RealityU\RealityU\bin\System.Web.WebPages.xml
+F:\RealityU\RealityU\RealityU\bin\System.Web.WebPages.Deployment.xml
+F:\RealityU\RealityU\RealityU\bin\System.Web.WebPages.Razor.xml
+F:\RealityU\RealityU\RealityU\bin\WebMatrix.Data.xml
+F:\RealityU\RealityU\RealityU\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\RealityU\RealityU\RealityU\bin\WebMatrix.WebData.xml
+F:\RealityU\RealityU\RealityU\bin\DotNetOpenAuth.AspNet.xml
+F:\RealityU\RealityU\RealityU\bin\DotNetOpenAuth.Core.xml
+F:\RealityU\RealityU\RealityU\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\RealityU\RealityU\RealityU\bin\DotNetOpenAuth.OAuth.xml
+F:\RealityU\RealityU\RealityU\bin\DotNetOpenAuth.OpenId.xml
+F:\RealityU\RealityU\RealityU\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\RealityU\RealityU\RealityU\obj\Debug\RealityU.csprojResolveAssemblyReference.cache
+F:\RealityU\RealityU\RealityU\obj\Debug\RealityU.dll
+F:\RealityU\RealityU\RealityU\obj\Debug\RealityU.pdb

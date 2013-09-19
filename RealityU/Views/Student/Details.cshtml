@@ -1,0 +1,134 @@
+﻿@model RealityU.Models.Student
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Student</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Group)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Group)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.FirstName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.FirstName)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.LastName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.LastName)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.GPA)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.GPA)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.EducationLevel)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.EducationLevel)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Profession)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Profession)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Salary)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Salary)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.MarriedTo)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.MarriedTo)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Kids)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Kids)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Married)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Married)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Home)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Home)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Vehicle)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Vehicle)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.CreditCard)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.CreditCard)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.CreditCardUse)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.CreditCardUse)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.GroceriesType)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.GroceriesType)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Savings)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Savings)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Entertainment)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Entertainment)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
