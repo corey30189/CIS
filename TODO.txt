@@ -1,0 +1,6 @@
+_layout.cshtml
+HomeController.cs
+Site.css
+Index.cshtml
+
+These were the files to fix william
