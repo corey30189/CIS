@@ -10,7 +10,10 @@ namespace RealityU.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+            ViewBag.Welcome     = "Welcome to RealityU";
+            ViewBag.Sponsor     = "Brought to you by Communities in Schools";
+            ViewBag.EnterPrompt = "Enter your group ID # right here:\t";
+            ViewBag.AdminPrompt = "Admin - type your password here:\t";
 
             return View();
         }

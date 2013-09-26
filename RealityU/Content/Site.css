@@ -44,10 +44,12 @@ mark {
 
 .float-left {
     float: left;
+    margin:auto;
 }
 
 .float-right {
     float: right;
+    margin: auto;
 }
 
 .clear-fix:after {
@@ -99,7 +101,7 @@ h5, h6 {
 }
 
 #body {
-    background-color: #efeeef;
+    background-color: #fff;
     clear: both;
     padding-bottom: 35px;
 }
@@ -110,9 +112,6 @@ h5, h6 {
         padding-top: 30px;
     }
 
-    .featured + .main-content {
-        background: url("../Images/heroAccent.png") no-repeat;
-    }
 
 header .content-wrapper {
     padding-top: 20px; 
@@ -120,7 +119,7 @@ header .content-wrapper {
 
 footer {
     clear: both;
-    background-color: #e2e2e2;
+    background-color: #fff;
     font-size: .8em;
     height: 100px;
 }
@@ -132,7 +131,11 @@ footer {
     color: #c8c8c8;
     font-family: Rockwell, Consolas, "Courier New", Courier, monospace;
     font-size: 2.3em;
-    margin: 0;
+    /*margin: 0;*/
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+ 
 }
 
 .site-title a, .site-title a:hover, .site-title a:active {
@@ -213,7 +216,7 @@ ul#menu {
 }
 
     .featured .content-wrapper {
-        background-color: #7ac0da;
+        background-color: #fff;
         background-image: -ms-linear-gradient(left, #7ac0da 0%, #a4d4e6 100%);
         background-image: -o-linear-gradient(left, #7ac0da 0%, #a4d4e6 100%);
         background-image: -webkit-gradient(linear, left top, right top, color-stop(0, #7ac0da), color-stop(1, #a4d4e6));
