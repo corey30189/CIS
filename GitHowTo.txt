@@ -1,0 +1,41 @@
+- For example I create a file called "bs.txt"
+
+- open git bash by right clicking in directory and opening bash from there, or cd to it in bash
+	
+	- create git repo in project directory with:
+
+		- git init
+			
+	- ensure there is not an existing origin:
+			
+		- git remote -v
+
+	- if so:
+	
+		- git remote remove origin		
+	
+	
+	- set up connection to remote repo with:
+	
+		- git remote add origin http://github.com/jaskamiin/CIS.git
+
+	- pull from the remote:
+
+		- git pull 
+
+	- add file:
+
+		- git add bs.txt
+
+	- commit the file:
+
+		- git commit bs.txt -m "this sure is some flaming bullsh"
+
+	- push the file:
+
+		- git push
+
+-From there you will need to type in your username and password on git 
+	
+	- make sure you are a contributor - Arielle i think you are not yet
+
