@@ -2,44 +2,42 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>@ViewBag.Title - RealityU</title>
+        <title>@ViewBag.Title - My ASP.NET MVC Application</title>
         <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
         <meta name="viewport" content="width=device-width" />
         @Styles.Render("~/Content/css")
         @Scripts.Render("~/bundles/modernizr")
     </head>
-
     <body>
-
-<!-- HEADER -->
-
         <header>
-
             <div class="content-wrapper">
-
                 <div class="float-left">
-                    <div class="site-title"><a href="http://www.cisga.org/cisgawpress/"><img src="~/Images/logo.png" /></a></div>
+                    <p class="site-title">@Html.ActionLink("your logo here", "Index", "Home")</p>
                 </div>
-
+                <div class="float-right">
+                    <section id="login">
+                        @Html.Partial("_LoginPartial")
+                    </section>
+                    <nav>
+                        <ul id="menu">
+                            <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                            <li>@Html.ActionLink("About", "About", "Home")</li>
+                            <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                        </ul>
+                    </nav>
+                </div>
             </div>
-
         </header>
-
-<!-- BODY -->
-
         <div id="body">
             @RenderSection("featured", required: false)
             <section class="content-wrapper main-content clear-fix">
                 @RenderBody()
             </section>
         </div>
-
-<!-- FOOTER -->
-
         <footer>
             <div class="content-wrapper">
                 <div class="float-left">
-                    <p>&copy; @DateTime.Now.Year - Community in Schools</p>
+                    <p>&copy; @DateTime.Now.Year - My ASP.NET MVC Application</p>
                 </div>
             </div>
         </footer>
